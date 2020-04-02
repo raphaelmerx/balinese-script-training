@@ -1,4 +1,4 @@
-Image sources of the Balinese script recognition testing:
+Image sources of the Balinese script recognition training:
 - babadbali: The Balinese Alphabet (http://www.babadbali.com/aksarabali/alphabet.htm)
 - bharatayuddha: Pasalin 1 Verse 1 (wirama jagaddhita) of Kakawin Bhāratayuddha (https://en.wikipedia.org/wiki/Balinese_script).
 - misc: Several Balinese folklore from social media 
